@@ -1,0 +1,11 @@
+body {
+    background-color: #000;
+}
+
+p {
+    font-size: 12px;
+}
+
+p.console-first {
+    color: rgb(18, 145, 18);
+}
