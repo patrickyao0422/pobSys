@@ -9,3 +9,7 @@ p {
 p.console-first {
     color: rgb(18, 145, 18);
 }
+
+p.console-second {
+    color: rgb(188, 200, 16);
+}
